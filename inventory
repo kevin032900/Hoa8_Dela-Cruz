@@ -1,0 +1,5 @@
+[nagios_ubuntu]
+192.168.56.102 ansible_python_interpreter=/usr/bin/python3
+
+[nagios_centos] 
+kcruz@192.168.56.113 
